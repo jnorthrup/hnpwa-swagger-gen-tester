@@ -1,0 +1,1 @@
+# hnpwa-swagger-gen-tester
