@@ -19,7 +19,8 @@
     <packaging>pom</packaging>
 
     <modules>
-        <module>generate</module>
+        <!--<module>generate</module>-->
+        <module>hnpwa-server</module>
         <module>hazelcache</module>
         <module>pwa</module>
     </modules>
